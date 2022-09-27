@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - I'm a Software Developer specialising in C#
-- I’m currently learning HTTP & Web API (ASP.NET)
+- I’m currently learning HTTP & Web API
 - Reach me at [linkedin\kristine-soncika](https://www.linkedin.com/in/kristine-soncika/) or kristine.soncika@gmail.com
 
  
